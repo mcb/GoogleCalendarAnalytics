@@ -8,6 +8,9 @@ in your directory).
 You will need to first turn on the Google Calendar API here (https://developers.google.com/calendar/quickstart/python)
 and save credentials.json to working directory.
 
+Inspiration:
+https://www.youtube.com/watch?v=sbhQNZVxcPc&t=151s
+
 API: 
 https://developers.google.com/calendar/concepts
 https://developers.google.com/resources/api-libraries/documentation/calendar/v3/python/latest/index.html
