@@ -66,7 +66,7 @@ def get_inputs():
 
 def get_service():
     """
-    Get creds and output to pickle file if they don't exist. Use creds to create
+    Get creds and output to token.json file if they don't exist. Use creds to create
     Resource for interacting with Google Calendar API.
     """
     creds = None
